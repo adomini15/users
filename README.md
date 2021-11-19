@@ -1,4 +1,3 @@
-# users
 # Tarea VI - Aplicación ionic-react de usuarios con sqlite
 ### Configuración
 ###### NOTE: Los siguientes pasos se hacen tomando en cuenta las versiones de las herramientas y modos de ejecutar utilizados. 
